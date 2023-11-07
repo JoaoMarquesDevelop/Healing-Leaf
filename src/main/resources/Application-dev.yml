@@ -1,0 +1,12 @@
+isle:
+  useTestUserForSteamCommunication: false
+
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: "validate"
+  datasource:
+    driver-class-name: "com.mysql.cj.jdbc.Driver"
+    url: "jdbc:mysql://localhost:3306/isle?serverTimezone=UTC"
+    username: "isle_king"
+    password: "isle#123"

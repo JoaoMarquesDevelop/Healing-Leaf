@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "veldt forest",
+    "waves": [
+      {
+        "index": 0,
+        "creatures": [
+          {
+            "id": 1,
+            "quantity": 6
+          }
+        ]
+      },
+      {
+        "index": 1,
+        "creatures": [
+          {
+            "id": 1,
+            "quantity": 6
+          },
+          {
+            "id": 2,
+            "quantity": 2
+          }
+        ]
+      }
+    ]
+  }
+]

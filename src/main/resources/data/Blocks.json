@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Simple block",
+    "feedstocks": [
+      {
+        "id": 1,
+        "quantity": 1
+      }
+    ],
+    "gold": 50
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Wolf 1",
+    "drops": [
+      {
+        "feedstock": 1,
+        "chance1": 20,
+        "chance2": 30,
+        "chance3": 35
+      }
+    ],
+    "goldMin": 1,
+    "goldMax": 2
+  },
+  {
+    "id": 2,
+    "name": "Golden wolf",
+    "drops": [
+      {
+        "feedstock": 4,
+        "chance1": 20,
+        "chance2": 30,
+        "chance3": 35
+      }
+    ],
+    "goldMin": 10,
+    "goldMax": 30
+  }
+]

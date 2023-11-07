@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Acid trap",
+    "feedstocks": [
+      {
+        "id": 2,
+        "quantity": 3
+      },
+      {
+        "id": 3,
+        "quantity": 5
+      }
+    ],
+    "gold": 100
+  },
+  {
+    "id": 2,
+    "name": "Omega trap",
+    "feedstocks": [
+      {
+        "id": 5,
+        "quantity": 20
+      }
+    ],
+    "gold": 1000
+  }
+]

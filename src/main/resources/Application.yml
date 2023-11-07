@@ -1,0 +1,27 @@
+isle:
+  steamAppId: 752760
+  steamKey: "9C03B38792855199032E23E1FA81331C"
+  dropChanceMultiplier: 1
+  userDefaults:
+    position:
+      x: 44
+      y: 27.8
+      z: 40
+    volume:
+      soundtrack: 5
+      ui: 5
+      fight: 5
+    currentIsland: 1
+  security:
+    jwt:
+      expirationTimeInMillis: 1000000000
+      secret: 6b44492e-7da8-11ed-a1eb-0242ac120002
+
+spring:
+  profiles:
+    default: dev
+
+application:
+  title: IsleTD
+  version: 1.0.0
+  company: Blaze Studios

@@ -1,0 +1,26 @@
+[
+  {
+    "feedstocks": [
+      {
+        "id": 1,
+        "quantity": 2
+      },
+      {
+        "id": 2,
+        "quantity": 4
+      }
+    ],
+    "gold": 100,
+    "experience": 200
+  },
+  {
+    "feedstocks": [
+      {
+        "id": 8,
+        "quantity": 3
+      }
+    ],
+    "gold": 250,
+    "experience": 1000
+  }
+]

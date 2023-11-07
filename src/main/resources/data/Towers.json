@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Acid tower",
+    "feedstocks": [
+      {
+        "id": 1,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "quantity": 3
+      }
+    ],
+    "gold": 50
+  },
+  {
+    "id": 2,
+    "name": "Omega tower",
+    "feedstocks": [
+      {
+        "id": 5,
+        "quantity": 20
+      }
+    ],
+    "gold": 1000
+  }
+]
