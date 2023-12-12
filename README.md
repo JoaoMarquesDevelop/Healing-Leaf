@@ -9,7 +9,7 @@ I started the development of this game in 2018, i improved this server lots of t
 Make sure to adapt service and controllers with Steam API. Everything should be handled there.
 
 ## Security
-We handle Game security with JWTS, feel free to change the encryption lib.
+I was handling game security with JWTS, authentication is made by Steam API. feel free to change the encryption lib for the jwt.
 
 ### Patterns
 This code have to follow the defined patterns:
