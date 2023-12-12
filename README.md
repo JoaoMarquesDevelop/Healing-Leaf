@@ -1,17 +1,17 @@
 # Isle Tower Defense Server 🎮
 
-## Version: Healing Leaf 5.4.3 
+Version: Healing Leaf 5.4.3 
 
-## This is my old server of Isle Tower Defense on Steam, I hope it helps anyone
+This is my old server of Isle Tower Defense on Steam, I hope it helps anyone
 I started the development of this game in 2018, i improved this server lots of times.
 
-## Include Game Marketplace to include revenue
+## Include Game Marketplace to include revenue 💰
 Make sure to adapt service and controllers with Steam API. Everything should be handled there.
 
-## Security
+## Security 🔑
 I was handling game security with JWTS, authentication is made by Steam API. feel free to change the encryption lib for the jwt.
 
-## Deploy
+## Deploy 📜
 - Before I was using microservice architecture with AWS ECS. But it took to much work for a game that was just starting its business.
 
 - With this, I migrated to this monolithic app. You can deploy it in a simple way, ordering a EC2 instance.
@@ -19,7 +19,7 @@ I was handling game security with JWTS, authentication is made by Steam API. fee
 * run the build `mvn spring-boot:run -Dspring-boot.run.profiles=prod` (For Spring Boot 2.0+ run has been renamed to spring-boot.run)
 
 
-## Database
+## Database 💾
 I was using mysql, if you want to change the DB make sure to config it in properties.xml file.
 
 ### Patterns
