@@ -22,7 +22,7 @@ I was handling game security with JWTS, authentication is made by Steam API. fee
 ## Database 💾
 I was using mysql, if you want to change the DB make sure to config it in properties.xml file.
 
-### Patterns
+## Patterns 🔨
 This code have to follow the defined patterns:
 
 * Dates are returned and saved in seconds.
