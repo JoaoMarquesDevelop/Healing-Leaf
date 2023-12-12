@@ -2,9 +2,14 @@
 
 ## Version: <font color="#69c6f0"> Healing Leaf 1.0</font> 
 
-
 ## This is my old server of Isle Tower Defense on Steam, I hope it helps anyone
+I started the development of this game in 2018, i improved this server lots of times.
 
+## Include Game Marketplace to include revenue
+Make sure to adapt service and controllers with Steam API. Everything should be handled there.
+
+## Security
+We handle Game security with JWTS, feel free to change the encryption lib.
 
 ### Patterns
 This code have to follow the defined patterns:
